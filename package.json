@@ -1,0 +1,19 @@
+{
+  "name": "fp_machines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^10.3.2"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
